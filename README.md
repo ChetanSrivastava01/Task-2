@@ -1,5 +1,5 @@
 # Task-2
- Grocery Website# Grocery Website
+ #Grocery Website
 
 ## Description
 
@@ -25,7 +25,6 @@ The Grocery Website is an online platform that allows users to conveniently purc
   - [Node.js](https://nodejs.org/) as the server runtime
   - [Node.js](https://nodejs.org) as the web application framework
   - [MongoDB](https://www.mongodb.com/) for database storage
-  - [JWT](https://jwt.io/) for user authentication
 
 ## Installation
 
